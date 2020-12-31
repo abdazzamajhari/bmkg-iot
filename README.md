@@ -1,4 +1,4 @@
-## Data Prakiraan Cuaca BMKG
+## Weather Forecasting with BMKG Datas
 
 <img src="https://www.topasiatour.com/pic/Indonesia/guide/indonesia-weather.jpg" width="500" height="500">
 

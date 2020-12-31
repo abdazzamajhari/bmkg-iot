@@ -1,6 +1,6 @@
 ## Weather Forecasting with BMKG Datas
 
-<img src="https://www.topasiatour.com/pic/Indonesia/guide/indonesia-weather.jpg" width="500" height="500">
+<img src="https://www.topasiatour.com/pic/Indonesia/guide/indonesia-weather.jpg" width="500" height="400">
 
 ## Run Application
 siapkan url endpoint https://abdazzamajhari.github.io/bmkg-iot/

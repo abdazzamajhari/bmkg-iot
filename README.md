@@ -1,6 +1,6 @@
-## Importer Data Prakiraan Cuaca BMKG
+## Data Prakiraan Cuaca BMKG
 
-<img src="https://data.bmkg.go.id/include/assets/img/cuaca.svg" width="500" height="500">
+<img src="https://www.topasiatour.com/pic/Indonesia/guide/indonesia-weather.jpg" width="500" height="500">
 
 ## Menjalankan Aplikasi
 siapkan url endpoint https://abdazzamajhari.github.io/bmkg-iot/

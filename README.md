@@ -2,7 +2,7 @@
 ## Importer Data Prakiraan Cuaca BMKG
 
 
-![Cuaca](https://data.bmkg.go.id/include/assets/img/cuaca.svg)
+![Cuaca](https://data.bmkg.go.id/include/assets/img/cuaca.svg = 250x250)
 
 Script PHP untuk import data prakiraan cuaca dari BMKG, dan ditambahkan ke database MYSQL, sehingga untuk kebutuhan ambil data cuaca bisa langsung query tanpa harus rekues lagi ke server BMKG
 

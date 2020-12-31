@@ -13,13 +13,18 @@ Script ini bisa dijalankan di Browser ataupun di command line, tapi bagusnya di 
 
 Dan ingat, bahwa anda harus memberitahukan jika datanya dari BMKG.
 
-## Instalasi
+## Menjalankan Aplikasi
+siapkan url endpoint https://abdazzamajhari.github.io/bmkg-iot/
 
-Copy **config.example.php** menjadi **config.php**
-ganti isinya dengan konfigurasi database anda
-impor **bmkg.sql** ke database anda
-pada file **bmkg.php** di paling bawah, **hapus** bagian **git**
-kecuali anda mau host datanya di Github juga
+dari aplikasi, unduh file wilayah.json https://abdazzamajhari.github.io/bmkg-iot/cuaca/wilayah.json
+
+Dari json tersebut, kalkulasi lokasi user dengan wilayah terdekat, atau user pilih sendiri.
+
+lalu download cuaca di wilayah yang dipilih berdasarkan kodenya https://abdazzamajhari.github.io/bmkg-iot/cuaca/idWilayah.json
+
+contoh: https://abdazzamajhari.github.io/bmkg-iot/cuaca/501233.json
+
+sesuaikan kode cuaca dengan icon di folder icon https://abdazzamajhari.github.io/bmkg-iot/icon/5.png
 
 #### Sumber
 -  [BMKG](http://data.bmkg.go.id/prakiraan-cuaca/)

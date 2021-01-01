@@ -11,7 +11,7 @@ Dari json tersebut, kalkulasi lokasi user dengan wilayah terdekat, atau user pil
 
 lalu download cuaca di wilayah yang dipilih berdasarkan kodenya https://abdazzamajhari.github.io/bmkg-iot/cuaca/idWilayah.json
 
-contoh: https://abdazzamajhari.github.io/bmkg-iot/cuaca/501233.json
+contoh: https://abdazzamajhari.github.io/bmkg-iot/cuaca/501193.json
 
 sesuaikan kode cuaca dengan icon di folder icon https://abdazzamajhari.github.io/bmkg-iot/icon/5.png
 
